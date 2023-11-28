@@ -23,7 +23,7 @@ another_variable = "Hello"
 print(my_variable)
 print(another_variable)
 
-#variables
+# Variables
 
 name = "John Doe"
 age = 36
