@@ -1,7 +1,7 @@
 print("Hello World")
 print("I am Syed Asad Jamil. This is my first Python Program")
 
-#introduction
+#Introduction
 
 name = "Syed Asad Jamil"
 age = 21
