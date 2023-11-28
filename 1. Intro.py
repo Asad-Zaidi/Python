@@ -16,4 +16,3 @@ print(age)
 print(city)
 print(country)
 print(hobby)
-
