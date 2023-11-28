@@ -3,7 +3,7 @@ y = "Boy"
 print(x)
 print(y)
 
-# type print
+# Type Print
 
 a = 10
 b = "Laptop"
