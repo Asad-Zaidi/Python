@@ -9,7 +9,7 @@ city = "Lahore, Pakistan"
 country = "Pakistan"
 hobby = ["Reading", "Writing", "Coding"]
 
-#Print the introduction 
+# Print the introduction 
 
 print(name)
 print(age)
