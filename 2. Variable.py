@@ -30,7 +30,7 @@ age = 36
 country = "India"
 city = "Delhi"
 
-#Printing Variables
+# Printing Variables
 
 print(name)
 print(age)
