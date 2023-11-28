@@ -1,0 +1,24 @@
+x = 5
+y = "Boy"
+print(x)
+print(y)
+
+# type print
+
+a = 10
+b = "Laptop"
+print(type(a))
+print(type(b))
+
+# case Sensitive
+
+a = 4
+A = "Sally"
+print(a)
+print(A)
+
+# variable name cannot start with a number, it can contain letters and underscores only.
+my_variable = 5
+another_variable = "Hello"
+print(my_variable)
+print(another_variable)
