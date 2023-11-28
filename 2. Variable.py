@@ -24,6 +24,7 @@ print(my_variable)
 print(another_variable)
 
 #variables
+
 name = "John Doe"
 age = 36
 country = "India"
@@ -35,17 +36,3 @@ print(name)
 print(age)
 print(country)
 print(city)
-
-#arithmetic operations
-
-sum = age + 2
-print(sum)
-difference = age - 7
-print(difference)
-product = age * 2
-print(product)
-quotient = age / 2
-print(quotient)
-remainder = age % 7
-print(remainder)
-
